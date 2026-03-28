@@ -5,4 +5,5 @@ Clean beginer code
 
 ##Run / Εκτέλεση
 calculator.py
-
+Technologies: Python 🐍
+Creator: Ioannis Stigkas
